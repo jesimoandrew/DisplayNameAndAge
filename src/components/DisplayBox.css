@@ -1,0 +1,12 @@
+.display-container {
+    margin-top: 15px;
+    background-color: aqua;
+    padding: 15px;
+    background: none;
+    border: 2px solid white;
+    border-radius: 15px;
+    font-family: 'poppins';
+    color: white;
+    font-size: larger;
+    letter-spacing: 1px;
+}
